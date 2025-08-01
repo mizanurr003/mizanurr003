@@ -1,4 +1,4 @@
-<img src="https://www.canva.com/design/DAGu2FX9RdQ/RqA7bCVWOIDG53QNO7JU6Q/edit?utm_content=DAGu2FX9RdQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
+<img src="https://i.ibb.co/7x0TSC0Q/Web-Developer-Linked-In-Banner.jpg">
 <h1 align="center">Hello 👋, I'm Mizanur Rahman</h1>
 <h3 align="center">Professional Web Developer And WordPress Theme Customizer</h3>
 
