@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/7x0TSC0Q/Web-Developer-Linked-In-Banner.jpg">
+<img src="https://i.ibb.co/DHxvnn3y/Blue-and-Orange-Geometric-Web-Developer-Linked-In-Banner.png">
 <h1 align="center">Hello 👋, I'm Mizanur Rahman</h1>
 <h3 align="center">Professional Web Developer And WordPress Theme Customizer</h3>
 
