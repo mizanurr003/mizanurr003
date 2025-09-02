@@ -1,4 +1,4 @@
-<img src="[https://i.ibb.co/gbHg21Wt/Linding-Banner.jpg](https://ibb.co.com/ycdPcNND)">
+<img src="https://ibb.co.com/353kWgLm">
 <h1 align="center">Hello 👋, I'm Mizanur Rahman</h1>
 <h3 align="center">Professional Web Developer And WordPress Theme Customizer</h3>
 
