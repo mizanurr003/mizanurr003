@@ -1,4 +1,4 @@
-<img src="https://ibb.co.com/353kWgLm">
+<img src="https://i.ibb.co.com/RGF7PRVT/linkding-profile-size.jpg">
 <h1 align="center">Hello 👋, I'm Mizanur Rahman</h1>
 <h3 align="center">Professional Web Developer And WordPress Theme Customizer</h3>
 
